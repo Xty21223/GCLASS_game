@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="--editorTheme3-PenColor:#0FBD8C; --editorTheme3-_version:2; --editorTheme3-commentColor:#FEF49C; --editorTheme3-controlColor:#FFAB19; --editorTheme3-customColor:#FF6680; --editorTheme3-dataColor:#FF8C1A; --editorTheme3-dataListsColor:#FF661A; --editorTheme3-eventsColor:#FFBF00; --editorTheme3-inputColor:#FFFFFF; --editorTheme3-looksColor:#9966FF; --editorTheme3-motionColor:#4C97FF; --editorTheme3-operatorsColor:#59C059; --editorTheme3-saColor:#29BEB8; --editorTheme3-sensingColor:#5CB1D6; --editorTheme3-soundsColor:#CF63CF; --editorTheme3-text:white; --editorTheme3-inputColor-text:#575e75; --editorTheme3-inputColor-blackText:#000000; --editorTheme3-commentText:#575e75; --editorTheme3-commentTextTransparent:rgba(0, 0, 0, 0.5); --editorTheme3-commentBorder:#b2ab6dff; --editorTheme3-motion-primary:#4C97FF; --editorTheme3-motion-secondary:#4488e6ff; --editorTheme3-motion-tertiary:#3d79ccff; --editorTheme3-motion-field:#3d79ccff; --editorTheme3-looks-primary:#9966FF; --editorTheme3-looks-secondary:#8a5ce6ff; --editorTheme3-looks-tertiary:#7a52ccff; --editorTheme3-looks-field:#7a52ccff; --editorTheme3-sounds-primary:#CF63CF; --editorTheme3-sounds-secondary:#ba59baff; --editorTheme3-sounds-tertiary:#a64fa6ff; --editorTheme3-sounds-field:#a64fa6ff; --editorTheme3-event-primary:#FFBF00; --editorTheme3-event-secondary:#e6ac00ff; --editorTheme3-event-tertiary:#cc9900ff; --editorTheme3-event-field:#cc9900ff; --editorTheme3-control-primary:#FFAB19; --editorTheme3-control-secondary:#e69a17ff; --editorTheme3-control-tertiary:#cc8914ff; --editorTheme3-control-field:#cc8914ff; --editorTheme3-sensing-primary:#5CB1D6; --editorTheme3-sensing-secondary:#539fc1ff; --editorTheme3-sensing-tertiary:#4a8eabff; --editorTheme3-sensing-field:#4a8eabff; --editorTheme3-operators-primary:#59C059; --editorTheme3-operators-secondary:#50ad50ff; --editorTheme3-operators-tertiary:#479a47ff; --editorTheme3-operators-field:#479a47ff; --editorTheme3-data-primary:#FF8C1A; --editorTheme3-data-secondary:#e67e17ff; --editorTheme3-data-tertiary:#cc7015ff; --editorTheme3-data-field:#cc7015ff; --editorTheme3-data_lists-primary:#FF661A; --editorTheme3-data_lists-secondary:#e65c17ff; --editorTheme3-data_lists-tertiary:#cc5215ff; --editorTheme3-data_lists-field:#cc5215ff; --editorTheme3-more-primary:#FF6680; --editorTheme3-more-secondary:#e65c73ff; --editorTheme3-more-tertiary:#cc5266ff; --editorTheme3-more-field:#cc5266ff; --editorTheme3-pen-primary:#0FBD8C; --editorTheme3-pen-secondary:#0eaa7eff; --editorTheme3-pen-tertiary:#0c9770ff; --editorTheme3-pen-field:#0c9770ff; --editorTheme3-sa-primary:#29BEB8; --editorTheme3-sa-secondary:#25aba6ff; --editorTheme3-sa-tertiary:#219893ff; --editorTheme3-sa-field:#219893ff;"><style xmlns="http://www.w3.org/1999/xhtml">
+    .blocklyText {
+        fill: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 12pt;
+        font-weight: 500;
+    }
+    .blocklyNonEditableText&gt;text, .blocklyEditableText&gt;text {
+        fill: #575E75;
+    }
+    .blocklyDropdownText {
+        fill: #fff !important;
+    }
+    .blocklyEditableText &gt; text {
+  fill: var(--editorTheme3-inputColor-text);
+}
+.blocklyHtmlInput {
+  background-color: var(--editorTheme3-inputColor);
+  color: var(--editorTheme3-inputColor-text);
+}
+
+.blocklyDropDownDiv .goog-menuitem-highlight,
+.blocklyDropDownDiv .goog-menuitem-hover,
+.sa-contextmenu-colored .blocklyContextMenu .goog-menuitem-highlight {
+  background-color: var(--editorTheme3-hoveredItem, rgba(0, 0, 0, 0.2));
+}
+
+.scratchCommentRect {
+  fill: var(--editorTheme3-commentColor);
+}
+.scratchCommentBody,
+.scratchCommentTextarea {
+  background-color: var(--editorTheme3-commentColor);
+}
+.scratchWorkspaceCommentBorder {
+  stroke: var(--editorTheme3-commentBorder);
+}
+.scratchCommentTextarea::placeholder {
+  color: var(--editorTheme3-commentTextTransparent);
+}
+.scratchCommentText {
+  fill: var(--editorTheme3-commentText);
+  color: var(--editorTheme3-commentText);
+}
+
+/*# sourceURL=theme3.css */</style><g data-id="M{+gYbC|_VM}B+3}__KB" class="blocklyDraggable blocklySelected" data-shapes="reporter round" data-category="operators" transform="translate(0,0) "><path class="blocklyPath blocklyBlockBackground" stroke="#479a47ff" fill="#59C059" fill-opacity="1" d="m 0,0 m 20,0 H 90.23263883590698 a 20 20 0 0 1 0 40 H 20 a 20 20 0 0 1 0 -40 z"/><g data-id="wR.?vP4PJrXC,_[N[BIO" data-argument-type="text number" data-shapes="argument round" transform="translate(4,4)"><path class="blocklyPath blocklyBlockBackground" stroke="#479a47ff" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 24 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"/><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="12" y="18" dominant-baseline="middle" dy="0" text-anchor="middle"> </text></g></g><g data-id="K%CboUdV^(aPA!4nay.|" data-argument-type="text number" data-shapes="argument round" transform="translate(66.23263883590698,4)"><path class="blocklyPath blocklyBlockBackground" stroke="#479a47ff" fill="#FFFFFF" fill-opacity="1" d="m 0,0 m 16,0 H 24 a 16 16 0 0 1 0 32 H 16 a 16 16 0 0 1 0 -32 z"/><g class="blocklyEditableText" transform="translate(8, 0) " style="cursor: text;"><text class="blocklyText" x="12" y="18" dominant-baseline="middle" dy="0" text-anchor="middle"> </text></g></g><path class="blocklyPath" style="visibility: hidden" d="" fill="#479a47ff"/><text class="blocklyText" y="2" text-anchor="middle" dominant-baseline="middle" dy="0" x="3.116319417953491" transform="translate(52, 20) " style="fill: rgb(255, 255, 255);">*</text><path class="blocklyPath" style="visibility: hidden" d="" fill="#479a47ff"/></g></svg>
